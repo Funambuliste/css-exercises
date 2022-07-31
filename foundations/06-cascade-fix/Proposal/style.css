@@ -1,0 +1,39 @@
+/*Stylesheet*/
+/*
+Fix it to make it match the pictures
+*/
+
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+}
+
+.para.small-para {
+    font-size: 14px;
+  }
+  
+.para {
+    font-size: 20px;
+  }
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.confirm {
+    background: green;
+    color: white;
+    font-weight: bold;
+  } 
+
+  .text.child {
+    color: red;
+    font-size: 14px;
+  } 
+
+div.text {
+  color: green;
+  font-size: 22px;
+}
